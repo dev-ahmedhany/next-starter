@@ -50,3 +50,9 @@ yarn create next-app
 ✔ Would you like to use experimental `app/` directory with this project? … No / Yes
 ✔ What import alias would you like configured? › … @/*
 ```
+
+install packages
+
+```bash
+yarn add @mui/material @emotion/react @emotion/styled @emotion/cache @emotion/server @mui/icons-material @mui/lab @mui/system @mui/x-data-grid @mui/x-date-pickers date-fns next-translate @next/bundle-analyzer nprogress react-hook-form notistack stylis stylis-plugin-rtl @types/nprogress @types/stylis   
+```
