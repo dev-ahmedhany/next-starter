@@ -1,0 +1,13 @@
+{
+    "locales": [
+        "ar",
+        "en"
+    ],
+    "localeDetection": false,
+    "defaultLocale": "ar",
+    "pages": {
+        "*": [
+            "common"
+        ]
+    }
+}

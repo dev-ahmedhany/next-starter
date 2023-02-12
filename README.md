@@ -54,5 +54,9 @@ yarn create next-app
 install packages
 
 ```bash
-yarn add @mui/material @emotion/react @emotion/styled @emotion/cache @emotion/server @mui/icons-material @mui/lab @mui/system @mui/x-data-grid @mui/x-date-pickers date-fns next-translate @next/bundle-analyzer nprogress react-hook-form notistack stylis stylis-plugin-rtl @types/nprogress @types/stylis   
+yarn add @mui/material @emotion/react @emotion/styled @emotion/cache @emotion/server @mui/icons-material @mui/lab @mui/system @mui/x-data-grid @mui/x-date-pickers date-fns next-translate @next/bundle-analyzer nprogress react-hook-form notistack stylis stylis-plugin-rtl @types/nprogress @types/stylis @typescript-eslint/eslint-plugin eslint-config-prettier prettier
 ```
+
+add prettier and eslint settings
+
+use packages at \_app and \_document
