@@ -2,7 +2,7 @@
 import { Children } from 'react'
 
 // ** Next Import
-import Document, { Html, Main, NextScript } from 'next/document'
+import Document, { Html, Main, NextScript, Head } from 'next/document'
 
 // ** Emotion Imports
 import createEmotionServer from '@emotion/server/create-instance'
@@ -16,6 +16,7 @@ class CustomDocument extends Document {
     return (
       <Html lang={this.props.locale} dir={this.props.locale === 'en' ? 'ltr' : 'rtl'}>
         <body>
+          <Head />
           {getInitColorSchemeScript()}
           <Main />
           <NextScript />
