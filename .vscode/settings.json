@@ -33,7 +33,6 @@
   "npm.packageManager": "yarn",
   // Extension: cSpell
   "cSpell.words": [],
-  "search-node-modules.path": "typescript-version/full-version/node_modules",
   "markdown.extension.toc.updateOnSave": false,
   "typescript.tsdk": "node_modules/typescript/lib",
   "typescript.enablePromptUseWorkspaceTsdk": true
