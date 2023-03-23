@@ -60,3 +60,9 @@ yarn add @mui/material @emotion/react @emotion/styled @emotion/cache @emotion/se
 add prettier and eslint settings
 
 use packages at \_app and \_document
+
+## How to use
+
+click use this template button
+
+or click [here](https://github.com/dev-ahmedhany/next-starter/generate)
